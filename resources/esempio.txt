@@ -1,0 +1,5 @@
+un file di esempio molto carino, che
+vogliamo usare per spiegare
+come con gli stream posso leggere dei file!
+e vedremo che è figo:
+un sacco
